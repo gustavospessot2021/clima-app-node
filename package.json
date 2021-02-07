@@ -1,0 +1,23 @@
+{
+  "name": "05-clima-mundo",
+  "version": "1.0.0",
+  "description": "Aplicacion para consultar el clima del mundo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "http",
+    "request",
+    "axios",
+    "OpenWeather",
+    "Respaldos"
+  ],
+  "author": "Gustavo Spessot",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "yargs": "^16.2.0"
+  }
+}

@@ -1,0 +1,13 @@
+- crear carpeta
+- iniciar Git Bash ahi
+- iniciar VSC en esa carpeta
+- crear app.js
+- en Git Bash:  
+    npm init
+    --> package.json
+
+    npm i --save yargs
+    --> /node_modules 
+
+- Escribir el yargs para el comando
+- probarlo con console.log
